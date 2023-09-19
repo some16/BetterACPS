@@ -1,0 +1,5 @@
+{
+    "innerHTML": {
+        "#toggle-paragraph": "<p id=\"toggle-paragraph\">This paragraph is now visible!</p>"
+    }
+}
